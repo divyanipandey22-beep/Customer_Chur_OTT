@@ -1,1 +1,1 @@
-# Customer_Chur_OTT
+# Customer_Churn_Analysis_OTT
